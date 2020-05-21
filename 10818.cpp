@@ -1,4 +1,3 @@
-//최소,최대
 /*#include <iostream>
 using namespace std;
 int main()
