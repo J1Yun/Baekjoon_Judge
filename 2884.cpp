@@ -13,4 +13,4 @@ int main()
 		cout << h << ' ' << m - 45 << endl;
 	return 0;
 	
-}*/
+}*/ 
