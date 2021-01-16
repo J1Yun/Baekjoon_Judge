@@ -1,5 +1,4 @@
-//º°Âï±â 8
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -19,4 +18,4 @@ int main()
 	}
 	for (int i = 1; i <= n * 2 - 1; i++) cout << "*";
 	return 0;
-}*/
+}
