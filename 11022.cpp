@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -9,4 +9,4 @@ int main()
 		cout << "Case #" << i << ": " << a << " + " << b << " = " << a + b << endl;
 	}
 	return 0;
-}*/
+}
