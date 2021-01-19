@@ -1,5 +1,4 @@
-//열개씩 끊어 출력
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -20,4 +19,4 @@ int main()
 
 	}
 	return 0;
-}*/
+}
