@@ -1,5 +1,4 @@
-// 두 수 비교
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -9,4 +8,4 @@ int main()
 	else if (a < b) cout << "<" << endl;
 	else cout << "==" << endl;
 	return 0;
-}*/
+}
