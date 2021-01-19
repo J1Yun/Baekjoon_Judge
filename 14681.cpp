@@ -1,5 +1,4 @@
-// 사분면 고르기
-/*#include<iostream>
+*#include<iostream>
 using namespace std;
 int main()
 {
@@ -16,4 +15,4 @@ int main()
 		else
 			cout << 3 << endl;
 	return 0;
-}*/
+}
