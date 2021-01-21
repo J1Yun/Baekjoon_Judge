@@ -1,5 +1,4 @@
-// 빠른 입출력 (시간단축)
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main() {
 	cin.tie(NULL);
@@ -12,4 +11,4 @@ int main() {
 		cout << a + b << '\n';
 	}
 	return 0;
-}*/
+}
