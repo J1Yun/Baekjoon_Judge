@@ -8,7 +8,7 @@ key = input()
 string = input()
 length = len(string)
 f, b, l = 0, length-1, len(key)
-q6front = []
+front = []
 back = []
 end = False
 while f < length :
@@ -29,4 +29,4 @@ while f < length :
             del back[-l:]
             break
         
- = print(''.join(front[:b+2] + list(reversed(back))))
+print(''.join(front[:b+2] + list(reversed(back))))
