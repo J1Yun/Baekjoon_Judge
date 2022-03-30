@@ -11,11 +11,11 @@ turn = []
 for _ in range(l):
     t, d = map(str, input().split())
     turn.append((int(t), d))
-    
 dx = [0, 1, 0, -1]
 dy = [1, 0, -1, 0]
 nd, hx, hy = 0, 0, 0
 time, i = 0, 0
+
 queue = deque()
 queue.append((hx, hy))
 while 1:
