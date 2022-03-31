@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  1 23:49:39 2021
-
-@author: Jiyun
-"""
-
 n, m = map(int, input().split())
 card = list(map(int, input().split()))
 max_sum = 0
